@@ -1,0 +1,27 @@
+<annotation>
+    <filename>20230622-232606.jpg</filename>
+    <folder>baby</folder>
+    <source>
+        <database>baby</database>
+        <annotation>custom</annotation>
+        <image>custom</image>
+    </source>
+    <size>
+        <width>1280</width>
+        <height>720</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>sleep</name>
+        <pose>unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>307</xmin>
+            <ymin>183</ymin>
+            <xmax>1006</xmax>
+            <ymax>580</ymax>
+        </bndbox>
+    </object>
+</annotation>

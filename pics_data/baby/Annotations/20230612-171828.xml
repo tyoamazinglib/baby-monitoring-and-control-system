@@ -1,0 +1,27 @@
+<annotation>
+    <filename>20230612-171828.jpg</filename>
+    <folder>baby</folder>
+    <source>
+        <database>baby</database>
+        <annotation>custom</annotation>
+        <image>custom</image>
+    </source>
+    <size>
+        <width>1280</width>
+        <height>720</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>covered_obstacle</name>
+        <pose>unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>208</xmin>
+            <ymin>167</ymin>
+            <xmax>769</xmax>
+            <ymax>534</ymax>
+        </bndbox>
+    </object>
+</annotation>
