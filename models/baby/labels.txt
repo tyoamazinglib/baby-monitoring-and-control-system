@@ -1,0 +1,6 @@
+BACKGROUND
+sleep
+prone
+covered_obstacle
+sit
+danger
