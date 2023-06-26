@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "469541110958",
+    "firebase_url": "https://babymo-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "babymo",
+    "storage_bucket": "babymo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469541110958:android:f1c8cf552ac4042b69993f",
+        "android_client_info": {
+          "package_name": "com.mycompany.babymo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "469541110958-fg2pphve1jt859gq187s8llv8psuffd8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.babymo",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "469541110958-9ubah2rm8vone24v9idrhvrvh1ngjfju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDPIhDnQlpdYk8hnHj1oFz1l2ZBp7AIhc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "469541110958-9ubah2rm8vone24v9idrhvrvh1ngjfju.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "469541110958-lpotja2q9f9piu1j4s7tuj5scci3bv1b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.babymo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
